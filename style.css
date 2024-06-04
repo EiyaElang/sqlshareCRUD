@@ -134,3 +134,43 @@ li a {
 .submit-button:hover, .delete-button:hover {
     background-color: #45a049;
 }
+
+.gambar {
+    text-align: center;
+    margin: 5% auto;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.gambar img {
+    margin: 50px auto;
+    width: 800px;
+    border-width: 0.5px;
+    border-color: gray;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.about-box {
+    margin: 5% 20%;
+    text-align: center;
+}
+
+.about-judul {
+    font-size: 34px;
+    font-weight: bold;
+}
+
+.about-box img {
+    border-radius: 8px;
+    border-color:rgb(45, 119, 255);
+    border-style: solid;
+    border-width: 0.5px;
+    width: 200px; 
+    height: 200px; 
+    object-fit: cover;
+}
+
+.data-diri {
+    margin: 5%;
+}
